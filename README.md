@@ -289,7 +289,14 @@ GitHub:(https://github.com/khandelwalgauri)
 
 ### Board Page
 
-![Board](./screenshots/Board%20page/board%20task%20ui.png)
+#### Board Task UI
+
+![Board Task UI](./screenshots/Board%20page/board%20task%20ui.png)
+
+#### Tasks View
+
+![Tasks](./screenshots/Board%20page/tasks.png)
+
 ### AI Feature
 
 ![AI](./screenshots/ai-feature.png)
