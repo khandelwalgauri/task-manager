@@ -285,7 +285,7 @@ GitHub:(https://github.com/khandelwalgauri)
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/Dashboard.png)
 
 ### Board Page
 
