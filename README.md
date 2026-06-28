@@ -277,11 +277,11 @@ GitHub:(https://github.com/khandelwalgauri)
 
 ### Login Page
 
-![Login](./screenshots/login.png)
+![Login](./screenshots/loginpage.png)
 
 ### Register Page
 
-![Register](./screenshots/register.png)
+![Register](./screenshots/Registerpage.png)
 
 ### Dashboard
 
@@ -289,8 +289,7 @@ GitHub:(https://github.com/khandelwalgauri)
 
 ### Board Page
 
-![Board](./screenshots/board.png)
-
+![Board](./screenshots/Board%20page/board%20task%20ui.png)
 ### AI Feature
 
 ![AI](./screenshots/ai-feature.png)
